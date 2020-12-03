@@ -11,7 +11,7 @@ brown: #986665;
 green: #98cb00;
 orange: #cc6733;
 blue: #3398cc;
-pink: #ff00aa;
+pink: #ff57c7;
 dark-gray: #676767;
 light-gray: #999999;
 text-gray: #6b6b6b;
@@ -69,7 +69,7 @@ a:hover {
 }
 
 .tm-bg-pink {
-  background-color: #ff00aa;
+  background-color: #ff57c7;
 }
 
 /*
@@ -191,7 +191,7 @@ a:hover {
 }
 
 .tm-text-pink {
-  color: #ff00aa;
+  color: #ff57c7;
 }
 
 .tm-text-blue {
