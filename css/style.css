@@ -654,7 +654,7 @@ div.blog-post {
     width: 70%;
     margin: 0 auto;
     height: 100%;
-    box-shadow: 0px 7px 13px 0px rgba(2, 2, 2, 0.56);
+    /* box-shadow: 0px 7px 13px 0px rgba(2, 2, 2, 0.56); */
 }
 
 .video-tutorial {
