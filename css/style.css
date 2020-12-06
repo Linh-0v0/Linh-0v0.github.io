@@ -650,7 +650,7 @@ div.blog-post {
 /* Video Tutorial */
 
 .video-box {
-    background: #333333;
+    /* background: #333333; */
     width: 70%;
     margin: 0 auto;
     height: 100%;
