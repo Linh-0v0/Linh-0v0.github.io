@@ -322,7 +322,8 @@ button {
 
 .about-fixed {
     position: fixed;
-    width: 20.8%;
+    width: 25.0%; 
+    /* 20.8% */
 }
 
 .my-pic {
