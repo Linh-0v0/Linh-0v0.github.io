@@ -1225,7 +1225,7 @@ blockquote {
 	
     .about-fixed {
        position: inherit;
-       width: 20%;
+       width: auto;
     }
 	
     .post-quote {
