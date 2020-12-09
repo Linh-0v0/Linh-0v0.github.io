@@ -1221,11 +1221,11 @@ blockquote {
 }
 
 
-@media only screen and (max-width: 1199px) {
+@media only screen and (max-width: 991px) {
 	
     .about-fixed {
        position: inherit;
-       width: auto;
+       width: 20%;
     }
 	
     .post-quote {
