@@ -11,7 +11,7 @@
   font-size: 7.5rem;
   font-weight: 700;
   line-height: 1;
-  margin: 308px -42px 60px 42px;
+  margin: 311px -56px 60px 56px;
 }
 
 @media (max-width: 1199px) {
@@ -94,6 +94,8 @@
   width: 206px;
   height: 206px;
   object-position: 100% 50%;
+  background-image: url("images/Nguyen_profile_photo_3.png");
+  background-position: 50% 50%;
   margin: 141px auto 0;
 }
 
