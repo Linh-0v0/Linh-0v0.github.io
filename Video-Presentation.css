@@ -140,7 +140,6 @@
   grid-template-columns: calc(50% - 5px) calc(50% - 5px);
   width: 1060px;
   grid-gap: 10px 10px;
-  height: auto;
   margin: 60px auto;
 }
 
@@ -306,6 +305,7 @@
   .u-section-2 .u-list-1 {
     min-height: 468px;
     grid-template-columns: repeat(2, calc(50% - 5px));
+    height: auto;
     margin-right: initial;
     margin-left: initial;
     width: auto;
