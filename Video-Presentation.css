@@ -498,5 +498,28 @@
     padding-bottom: 29px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 600px;
+  min-height: 500px;
+}
+
+.u-section-3 .u-video-1 {
+  box-shadow: 2px -2px 8px 0 rgba(128,128,128,1);
+  animation-duration: 1500ms;
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 400px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 350px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 220px;
+  }
 }
